@@ -1,10 +1,10 @@
 ![ArtracX](https://github.com/ArtracID/ArtracID-DID-ART-Method/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
 # Art ID Registry DID:ART Method
-did : art : <blockchain[1 * 5]> : <id[40 * ]>
+did : art : <node[1 * 5]> : <id[40 * ]>
 
 Technical Paper for W3C DID Registration
 
-## Official DID:ART Method in W3C Registry
+## DID:ART Method
 
 Merged into W3C Github DID Registry
 
@@ -23,15 +23,16 @@ on 11 Aug 2022
 - www.ArtIDRegistry.org
 
 **Author** 
-- Prof. Daniel Chun (HKUST) 
-- Ming Lam Ng (Collaborator
+- Dr. Daniel Chun (HKUST) 
+- Ming Lam Ng (Collaborator at Real Matter Technology Limited)
 - Batmanaman (HKUST Researcher)
 
 **Editor** 
-- Dr. Daniel Chun, Batmanaman
+- Dr. Daniel Chun, Ming Lam Ng, Batmanaman
 
 **Advisors** 
-- Prof. Mow Wai Ho (HKUST PiCode 2D-Watermark Technology) 
+- Prof. Mow Wai Ho (HKUST PiCode 2D-Watermark Technology)
+- Prof. Marilena Vecco (Burgundy School of Business)
 
 **Contact** 
 - did_inquiry@artgrouplimited.com 
