@@ -31,7 +31,7 @@ on 11 Aug 2022
 - Dr. Daniel Chun, Batmanaman
 
 **Advisors** 
-- Prof. 
+- Prof. Mow Wai Ho (HKUST PiCode 2D-Watermark Technology) 
 
 **Contact** 
 - did_inquiry@artgrouplimited.com 
