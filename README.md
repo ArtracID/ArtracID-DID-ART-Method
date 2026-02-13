@@ -1,5 +1,5 @@
 ![ArtracX](https://github.com/ArtracID/ArtracID-DID-ART-Method/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
-# ArtracID DID:ART Method
+# Art ID Registry DID:ART Method
 did : art : <blockchain[1 * 5]> : <id[40 * ]>
 
 Technical Paper for W3C DID Registration
@@ -19,38 +19,38 @@ on 11 Aug 2022
 (https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/did-identifier/default.js)
 
 
-## Art Group Limited
-[www.artracx.com](https://www.artracx.com)
+## Art ID Registry will be supported by and operated by Art Growth Limited - a HKUST startup company
+- www.ArtIDRegistry.org
 
 **Author** 
-- Ming-lam Ng (RealMatter)
+- Prof. Daniel Chun (HKUST) 
+- Ming Lam Ng (Collaborator
+- Batmanaman (HKUST Researcher)
 
 **Editor** 
-- Daniel Chun (RealMatter)
+- Dr. Daniel Chun, Batmanaman
 
 **Advisors** 
-- Paul Cheng, Emil Chan
+- Prof. 
 
 **Contact** 
-- did_inquiry@artrac.id
+- did_inquiry@artgrouplimited.com 
 
 **Date** 
 - 26 May 2022
+- updated 13 Feb 2026 (by Dr. Daniel Chun)
 
 **Version** 
 - First copy V1.0
 
 
+## About Art ID Registry
 
-## About ArtracID
+Art ID Registry is led by Prof. Daniel Chun as the Principal Investigator at Hong Kong University of Science and Technology (HKUST) which is a member of the Art ID Standard Consortium. 
+Art ID Registry superceded previous ArtracID definitions which aims to provide the method and resolver for identifications of art and collectibles.
 
-“ArtracID” is part of the ARTRACX project developed by Art Group Limited - an incorporated company established in Hong Kong and a member of the Art ID Standard Consortium. 
-
-ARTRACX develops the ArtracID which aims to provide the method and resolver for identifications of art and collectibles. It will also make use of specific hardware devices to hold the security key and to derive the unique DID.
-
-This document specifies the “ArtracID” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:art**].
-
-ArtracID uses Artrac.id as the official service website.
+This document used to refer "ArtracID"  [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:art**].
+Art ID Registry will be led by HKUST and other collaborating parties in future.
 
 **Highly Secured Key Tag Hardware**
 
