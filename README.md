@@ -60,7 +60,9 @@ ARTRACX have also been developing a method to decouple the security keys from wa
 
 **ARTRACX Platform**
 
-The [ARTRACX platform](https://www.artracx.com) is a new digital platform that will service  the ecosystem of art collectors, art advisors,  art practitioners, insurers, art galleries, artists and charities by offering provenance, transaction advisory, and valuations. [Art Group Limited](https://www.artgrouplimited.com) is a member of the ART ID STANDARD Consortium and develops its ARTRACX platform to integrate blockchain, chipsets, smart contract, online viewing room and  communications technologies for tapping art provenance, tracking, tracing and trading of art and collectibles online. marketplace/auctions.
+The [ARTRACX platform](https://www.artracx.com) is a new digital platform that will service the ecosystem of art collectors, art advisors,  art practitioners, insurers, art galleries, artists and charities by offering provenance, transaction advisory, and valuations. [Art Group Limited](https://www.artgrouplimited.com) 
+
+Hong Kong University of Science and Technology is a member of the ART ID STANDARD Consortium and through one of the university startup company - Art Growth limited, it develops the Art ID Registry to integrate blockchain, chipsets, smart contract, online viewing room and communications technologies for tapping art provenance, tracking, tracing and trading of art and collectibles online and marketplace/auctions.
 
 
 ## Conformity
